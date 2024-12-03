@@ -9,7 +9,7 @@ import os
 import json
 from openai import OpenAI
 
-os.environ['OPENAI_API_KEY'] = ''
+os.environ['OPENAI_API_KEY'] = 'xxxxxxxxxx'
 
 OpenAI.api_key = os.getenv("OPENAI_API_KEY")
 
