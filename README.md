@@ -1,5 +1,5 @@
 # chat_ai
-# api 주소 입력하기 드리고 질문을 입력하기.
+###### api 주소 입력하기 드리고 질문을 입력하기.
 
 !pip install openai
 import os
