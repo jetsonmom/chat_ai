@@ -1,3 +1,16 @@
+```
+!pip install openai
+!pip install gradio
+!pip install pyserial
+```
+<b>  final_gradio_dht_chatbot
+
+
+
+
+
+
+
 # chat_ai
 ###### api 주소 입력하기 드리고 질문을 입력하기.
 
